@@ -1,0 +1,111 @@
+{
+  "name": "Silberling",
+  "tagline": "Where Coffee Culture Meets Berlin Charm",
+  "category": "Café & Event Venue",
+  "location": {
+    "address": "Haus c13, Christburger Str. 13",
+    "city": "10405 Berlin",
+    "neighborhood": "Prenzlauer Berg",
+    "district": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 55602019",
+    "email": "cafe@silberling.cc",
+    "website": "https://silberling.cc"
+  },
+  "social_media": {
+    "instagram": "https://instagram.com/silberling.cc",
+    "facebook": "https://facebook.com/Silberling.cc"
+  },
+  "hours": {
+    "weekdays": "Monday - Friday: 11:00 - 17:00",
+    "note": "Event venue available for bookings"
+  },
+  "google_maps": {
+    "url": "https://www.google.com/maps/search/?api=1&query=Silberling&query_place_id=ChIJMcaTZeFPqEcRfBo806bNXGQ",
+    "place_id": "ChIJMcaTZeFPqEcRfBo806bNXGQ",
+    "rating": 4.9
+  },
+  "features": [
+    {
+      "icon": "coffee",
+      "title": "Specialty Coffee",
+      "description": "Premium coffee sourced from local Berlin roasters"
+    },
+    {
+      "icon": "pastry",
+      "title": "Fresh Pastries",
+      "description": "House-made Berliner and baked goods daily"
+    },
+    {
+      "icon": "events",
+      "title": "Event Space",
+      "description": "189 m² venue with professional sound and lighting"
+    },
+    {
+      "icon": "wifi",
+      "title": "High-Speed WiFi",
+      "description": "Up to 1,000 Mb/s for working and browsing"
+    },
+    {
+      "icon": "accessible",
+      "title": "Accessible",
+      "description": "Ground-level access and wheelchair friendly"
+    },
+    {
+      "icon": "music",
+      "title": "Live Music",
+      "description": "Concert grand piano and regular live events"
+    }
+  ],
+  "menu_highlights": [
+    {
+      "category": "Coffee",
+      "items": ["Espresso", "Cappuccino", "Flat White", "Filter Coffee", "Cold Brew"]
+    },
+    {
+      "category": "Pastries",
+      "items": ["Berliner", "Croissants", "Mango Lassi Cheesecake", "Seasonal Cakes"]
+    },
+    {
+      "category": "Food",
+      "items": ["Maultaschen with Tikka Masala", "Fresh Sandwiches", "Daily Specials"]
+    },
+    {
+      "category": "Beverages",
+      "items": ["Fresh Juices", "Mango Lassi", "Tea Selection", "Soft Drinks"]
+    }
+  ],
+  "about": {
+    "short": "Silberling is a unique café and event venue nestled in the heart of Berlin's Prenzlauer Berg, where specialty coffee meets fusion cuisine in a cozy, modern atmosphere.",
+    "long": "Located in the vibrant Kaffeeviertel of Prenzlauer Berg, Silberling has become a beloved gathering place for coffee enthusiasts, creative minds, and culture seekers. Our modern wooden building, constructed in 2013, houses both an intimate café-bistro and a versatile 189 m² event space.\n\nWe pride ourselves on serving exceptional coffee alongside inventive fusion cuisine that brings together German traditions with international flavors. From our signature Berliner pastries to creative dishes like Maultaschen with Chicken Tikka Masala, every item is crafted with care by our in-house culinary team.\n\nWhether you're stopping by for your morning coffee, working remotely with our high-speed WiFi, or attending one of our regular live music events, Silberling offers a warm, welcoming space that embodies the best of Berlin's café culture.",
+    "unique_selling_points": [
+      "Part of Berlin's legendary Kaffeeviertel coffee quarter",
+      "Fusion cuisine blending German and international flavors",
+      "Dual-purpose space: cozy café by day, event venue by night",
+      "In-house patisserie with fresh daily baked goods",
+      "Concert grand piano for live performances",
+      "Ultra-fast WiFi perfect for remote work"
+    ]
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "Terrific staff and fast service. The coffee quality is outstanding, and the Berliner are simply delicious!",
+      "source": "Google Reviews",
+      "aggregate": true
+    },
+    {
+      "rating": 5,
+      "text": "One of the best cafes in Prenzlauer Berg. Great atmosphere, friendly service, and the fusion dishes are surprisingly creative.",
+      "source": "Restaurant Guru",
+      "aggregate": true
+    },
+    {
+      "rating": 4,
+      "text": "Lovely space with excellent coffee. The venue is perfect for events and the acoustics are fantastic.",
+      "source": "Google Reviews",
+      "aggregate": true
+    }
+  ]
+}
